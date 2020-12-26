@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 
 
-<img align="left" alt="amangupta2000's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amangupta200&show_icons=true&hide_border=true" />
+<img align="left" alt="amangupta2000's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amangupta2000&show_icons=true&hide_border=true" />
 
 
 [website]: https://amangupta2000.github.io/
