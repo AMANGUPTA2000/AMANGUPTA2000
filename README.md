@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and exploring Everything.
 - 👯 I’m looking to collaborate with other Content Creator.
 - 💬 Ask me about anything related to Software and I.T.
-- ⚡ Fun fact: Making a asistant to tell some jokes.
+- ⚡ Fun fact: Making an assistant to tell some jokes.
 
 ### Connect with me:
 
