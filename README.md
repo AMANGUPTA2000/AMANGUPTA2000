@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Making an assistant to tell some jokes.
 
 ![](https://komarev.com/ghpvc/?username=AMANGUPTA2000)
+<a class="twitter-follow-button" href="https://twitter.com/GuptaAmanR" data-size="large">Follow @TwitterDev</a>
 
 ### Connect with me:
 
