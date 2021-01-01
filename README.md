@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Software and I.T.
 - ⚡ Fun fact: Making an assistant to tell some jokes.
 
-![](https://komarev.com/ghpvc/?username=AMANGUPTA2000)
+![](https://komarev.com/ghpvc/?username=AMANGUPTA2000&label=PROFILE+VIEWS)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GuptaAmanR?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGuptaAmanR&screen_name=GuptaAmanR)
 
 ### Connect with me:
