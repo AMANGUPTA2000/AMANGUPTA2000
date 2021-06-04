@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Aman Gupta's stats](https://github-readme-stats.vercel.app/api?username=AMANGUPTA2000&show_icons=true&theme=radical)
 
 <img align="left" alt="amangupta2000's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amangupta2000&show_icons=true&hide_border=true" />
 
