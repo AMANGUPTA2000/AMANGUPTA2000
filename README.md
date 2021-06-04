@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Native Android Projects.
+- 🔭 I’m currently working on Native Android Projects and Web Development using PHP and ASP DOTNET.
 - 🌱 I’m currently learning and exploring Everything.
 - 👯 I’m looking to collaborate with other Content Creator.
 - 💬 Ask me about anything related to Software and I.T.
