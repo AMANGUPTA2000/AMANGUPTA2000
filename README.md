@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Aman Gupta's stats](https://github-readme-stats.vercel.app/api?username=AMANGUPTA2000&show_icons=true&theme=merko)
+![Aman Gupta's stats](https://github-readme-stats.vercel.app/api?username=AMANGUPTA2000&show_icons=true&theme=dark)
 
 
 
